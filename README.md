@@ -1,6 +1,6 @@
 # Ray-Tracing
 
-![image](https://github.com/user-attachments/assets/19584c41-eecc-405b-949a-07852b624ac0)
+![Screenshot (4)](https://github.com/user-attachments/assets/86972345-2302-49a0-9055-6d17c23873db)
 
 About
 This ray tracer is a basic yet enhanced rendering engine written in C++. It simulates the way light interacts with objects in a 3D scene to produce realistic images. The core concept of ray tracing is the simulation of light rays as they travel from a camera (or viewer) through a scene, intersecting with objects (such as spheres) and bouncing off surfaces to simulate reflection, refraction, and shading effects.
